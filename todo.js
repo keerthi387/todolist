@@ -57,10 +57,10 @@
         })
             
             promise.then(function(){
-                alert("sucess");
+                alert("Congrats. 5 Tasks have been Successfully Completed");
             })
             .catch(function(){
-                alert("failed");
+                alert("ONE TASK SELECTION FAILED");
             })
             
             
